@@ -13,8 +13,8 @@
   "repository": "https://github.com/felixrieseberg/electron-windows-interactive-notifications",
   "license": "MIT",
   "dependencies": {
-    "bindings": "^1.2.1",
-    "nan": "^2.4.0"
+    "node-addon-api": "^3.0.0",
+    "bindings": "^1.2.1"
   },
   "os": [
     "win32"
